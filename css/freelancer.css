@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #18BC9C;DC1405
   outline: none;
 }
 h1,
@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #151112;
   color: white;
 }
 header .container {
@@ -160,7 +160,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #DC1405;18BC9C;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -169,13 +169,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #DC1405;18BC9C;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #DC1405;18BC9C;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -185,9 +185,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #DC1405;18BC9C;
   color: white;
-  border-color: #18BC9C;
+  border-color: #DC1405;18BC9C;
 }
 @media (min-width: 768px) {
   .navbar-custom {
